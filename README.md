@@ -1,6 +1,6 @@
 # 📝 EZ Notes
 
-A modern, feature-rich notepad application built with PyQt6, featuring a clean Airbnb-inspired design and powerful text editing capabilities.
+A modern, feature-rich notepad application built with PyQt6, featuring audio transcribing, AI summarization and powerful text editing capabilities.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
