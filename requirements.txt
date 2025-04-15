@@ -1,0 +1,15 @@
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+PyAudio==0.2.14
+wave==0.0.2
+openai-whisper==20231117
+numpy==2.2.4
+torch==2.6.0
+ffmpeg-python==0.2.0 
+google-genai==1.10.0
+python-dotenv==1.1.0
+cryptography==44.0.2
+pillow==11.1.0
+cx_Freeze==8.1.0
+pyinstaller==6.12.0
